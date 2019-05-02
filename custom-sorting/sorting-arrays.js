@@ -5,10 +5,6 @@ var students = [
   { id: 4, name: "alex",     age: 30 }
 ];
 
-// students.sort(function(a,b){
-//
-// });
-
 students.sort(function(a,b){
   var nameA = a.name;
   var nameB = b.name;
